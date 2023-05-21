@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "mqtt": "^4.3.7",
+    "url": "^0.11.0",
     "vue": "^2.6.14"
   },
   "devDependencies": {
@@ -17,8 +19,10 @@
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
+    "buffer": "^6.0.3",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
+    "process": "^0.11.10",
     "vue-template-compiler": "^2.6.14"
   },
   "eslintConfig": {
